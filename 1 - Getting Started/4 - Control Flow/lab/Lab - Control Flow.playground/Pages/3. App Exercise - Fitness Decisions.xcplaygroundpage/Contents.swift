@@ -10,7 +10,7 @@ let stepgoal:Double = 10000
 var goalpercent = steps/stepgoal * 100
 
 if goalpercent < 50 {
-    print("gg mate")
+    print("GOod job!!!!!")
 } else {
     print("you're lacking")
 }
