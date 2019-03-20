@@ -12,7 +12,7 @@ var goalpercent = steps/stepgoal * 100
 if goalpercent < 56 {
     print("GOod job!!!!!")
 } else {
-    print("you're lacking")
+    print("you'll get there")
 }
 /*:
  Now create a new, but similar, if-else-if statement that prints "Way to get a good start today!" if `steps` is less than a tenth of `stepGoal`, prints "You're almost halfway there!" if `steps` is less than half of `stepGoal`, and prints "You're over halfway there!" if `steps` is greater than half of `stepGoal`.
